@@ -1,3 +1,12 @@
+This project was done as part of my "Software Engineering" module in Trinity College Dublin. The project was to be able to retrieve data from Github using an API and visualise the data some way. I built my github access website using "React.JS" with Axios HTTP client to access the GitHub API and retrieve data about a user searched storing this as a JSon object. The data is displayed using D3 which is a javascript library used to display data through plotly.js. The data visualised is the languaged used by the user searched which is displayed on a barchart and a piechart. 
+
+
+![git] (videos/bandicam-2019-11-28-17-41-39-677.gif)
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
