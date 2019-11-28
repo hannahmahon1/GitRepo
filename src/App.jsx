@@ -8,12 +8,8 @@ import lda from './lda';
 import Logo from './Logo.png';
 import './style.css';
 
+
 const imgStye = {
-  borderRadius: "500%",
-  left: "30%",
-  right: "400%",
-  flexDirection: 'row',
-  marginTop: "30",
   width: "70px",
   height: "70px"
   
@@ -113,8 +109,8 @@ render() {
         <header className="App-header">
         <h1>Github Analytics</h1>
         <img src = {Logo}
-          alt = "website logo"
-          style = {imgStye}/>  
+          alt = "website logo" 
+          style =  {imgStye}/>  
           </header>
         <div className ="Form">
          <Form

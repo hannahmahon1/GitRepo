@@ -15,13 +15,12 @@ const Form = (props) => {
       />
       </label>
       <div>
-      {  /*
+      
       <input
         type="submit"
         value="Enter"
       />
-      */
-          }   </div>
+   </div>
     </form>
 )};
 export default Form;

@@ -1,5 +1,6 @@
 body {
     background-color: #ADD8E6;
+    background-image: linear-gradient(#ADD8E6, white);
 }
 
 .Logo{
@@ -13,7 +14,7 @@ body {
 
 
 .App-header {
-    color: #FFC0CB;
+    color: pink;
      text-align: center; 
      font-family: Arial;
      text-align: center;
@@ -33,7 +34,12 @@ body {
     border-right: none;
     border-top: none;
     border-bottom: 2px solid pink;
-    background-color: #ADD8E6;
+    background-color: #f5f5dc;
     width: 200px;
     height: 50px;
+}
+
+
+.button {
+    color: #ADD8E6 ;
 }
